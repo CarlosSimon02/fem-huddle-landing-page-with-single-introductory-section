@@ -101,7 +101,7 @@ body {
 }
 
 .main__cta__content p {
-    line-height: 2rem;
+    line-height: 1.7r   em;
 }
 
 .main__cta__content button {
@@ -226,11 +226,6 @@ body {
 
     .main__socials__item .fa {
         transform: scale(1.5,1.5);
-    }
-
-    .main__socials__item {
-        width: calc(1.5rem + (40 - 24) * ((100vw - 375px) / (1057 - 375)));;
-        height: calc(1.5rem + (40 - 24) * ((100vw - 375px) / (1057 - 375)));;
     }
 
     .main__cta__content button {
