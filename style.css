@@ -61,11 +61,6 @@ body {
     display: flex;
 }
 
-.visually-hidden {
-    position: absolute;
-    visibility: hidden;
-}
-
 /* content */
 .main {
     min-width: 200px;
