@@ -179,8 +179,8 @@ body {
 
     .main__socials__item .fa {
         transform: scale(
-            calc(1 + (1.5 - 1) * ((100vw - 375px) / (1057 - 375))),
-            calc(1 + (1.5 - 1) * ((100vw - 375px) / (1057 - 375)))
+            calc(1 + (1.3 - 1) * ((100vw - 375px) / (1057 - 375))),
+            calc(1 + (1.3 - 1) * ((100vw - 375px) / (1057 - 375)))
         );
     }
 }
@@ -231,7 +231,7 @@ body {
     }
 
     .main__socials__item .fa {
-        transform: scale(1.5,1.5);
+        transform: scale(1.3,1.3);
     }
 
     .main__cta__content button {
