@@ -88,12 +88,12 @@ body {
 }
 
 .main__cta__image{
-    flex: 58%;
+    flex: 60%;
     align-self: center;
 }
 
 .main__cta__content {
-    flex: 42%;
+    flex: 40%;
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
