@@ -234,6 +234,7 @@ body {
     .main__cta__content button {
         height: 56px;
         font-size: 1.125rem;
+        box-shadow: 2px 4px 9px var(--clr-shadow);
     }
 
     .socials {
