@@ -34,4 +34,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/CarlosSimon02/fem-huddle-landing-page-with-single-introductory-section](https://github.com/CarlosSimon02/fem-huddle-landing-page-with-single-introductory-section)
-- Live Site URL: [fem-huddle-landing-page-carlossimon.vercel.app](fem-huddle-landing-page-carlossimon.vercel.app)
+- Live Site URL: [https://fem-huddle-landing-page-carlossimon.vercel.app/](https://fem-huddle-landing-page-carlossimon.vercel.app/)
