@@ -111,6 +111,7 @@ body {
     cursor: pointer;
     border: 0;
     border-radius: 100px;
+    background-color: var(--clr-secondary);
     color: var(--clr-primary);
     transition: var(--trn-hover);
     box-shadow: 1px 3px 5px var(--clr-shadow);
