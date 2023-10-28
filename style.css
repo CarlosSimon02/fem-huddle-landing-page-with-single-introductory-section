@@ -1,6 +1,6 @@
 :root {
     --clr-primary: hsl(257, 40%, 49%);
-    --clr-secondary: white;
+    --clr-secondary: hsl(0, 0%, 100%);
     --clr-accent: hsl(300, 69%, 71%);
     --clr-shadow: hsla(0, 0%, 0%, 0.269);
 
@@ -115,6 +115,7 @@ body {
     color: var(--clr-primary);
     transition: var(--trn-hover);
     box-shadow: 1px 3px 5px var(--clr-shadow);
+    font-family: var(--ff-accent);
 }
 
 .main__cta__content button:hover {
