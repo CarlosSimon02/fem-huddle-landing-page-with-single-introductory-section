@@ -194,7 +194,9 @@ body {
     }
 
     .main {
-        max-width: 1282px;
+        max-width: 1360px;
+        margin-inline: 5rem;
+        margin-block-start: 4rem;
     }
 
     .main__logo {
